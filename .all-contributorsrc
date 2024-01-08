@@ -4,8 +4,8 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": ["README.md"],
-  "imageSize": 100,
+  "imageSize": 200,
   "commit": true,
   "commitConvention": "gitmoji",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 6
 }
